@@ -21,8 +21,8 @@ I intend to become a Full Stack Developer and live coding💻!
   
 <div>
  <a href="https://discord.gg/V3r8TwMMcw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:mateusfvo25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://contate.me/h3vn3r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
+ <a href = "mailto:mateusfvdeoliveira169@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="[https://contate.me/h3vn3r](https://wa.me/5514997747573?text=Ol%C3%A1%21+Vim+atrav%C3%A9s+do+seu+perfil+no+GitHub.)"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
 </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
